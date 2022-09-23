@@ -1,0 +1,17 @@
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\bin\Debug\net6.0\IP-Tracker.exe
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\bin\Debug\net6.0\IP-Tracker.deps.json
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\bin\Debug\net6.0\IP-Tracker.runtimeconfig.json
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\bin\Debug\net6.0\IP-Tracker.dll
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\bin\Debug\net6.0\IP-Tracker.pdb
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.csproj.AssemblyReference.cache
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.AssemblyInfoInputs.cache
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.AssemblyInfo.cs
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.csproj.CoreCompileInputs.cache
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.dll
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\refint\IP-Tracker.dll
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.pdb
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.genruntimeconfig.cache
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\ref\IP-Tracker.dll
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nilsr\OneDrive\Skrivbord\IP-Tracker\obj\Debug\net6.0\IP-Tracker.csproj.CopyComplete

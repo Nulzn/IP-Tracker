@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m7g12xCmp6yNHBV4zmteHHpfXvIilYHpB2/xt6brzvbaBCIsmmtBMn/gcud0BUyXqunD8lGC8RTWpuSu8lDwMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nilsr\\OneDrive\\Skrivbord\\IP-Tracker\\IP-Tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilsr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
