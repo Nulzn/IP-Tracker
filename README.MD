@@ -6,9 +6,9 @@ IP-Tracker is an free open source ip tracking system developed in C# for Windows
 
 * Install dotnet via https://dotnet.microsoft.com/en-us/download (REQUIRED to run the program)
 
-* Download the github code ZIP-File and extract the folder
+* `Download the github code ZIP-File and extract the folder`
 
-* Open CMD (Command Prompt) and CD to the IP-Tracker folder
+* `Open CMD (Command Prompt) and CD to the IP-Tracker folder`
 
 * `dotnet run` to start the program
 
